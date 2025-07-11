@@ -2,7 +2,7 @@
 
 ## 📚 Project Overview
 
-This is a minimal **Lexi-like legal assistant** frontend built with **React.js** and optional Tailwind CSS styling.
+This is a minimal **Lexi-like legal assistant** frontend built with **React.js** and Tailwind CSS styling.
 
 Users can:
 - Ask a legal question.
@@ -14,10 +14,10 @@ Users can:
 
 ## 🚀 How to Run
 
-1. **Clone this repo**
+ **Clone this repo**
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Lexisg-frontend-intern-test.git
+   git clone [https://github.com//Lexisg-frontend-intern-test.git]
    cd Lexisg-frontend-intern-test
 
 # Install Dependencies
@@ -27,5 +27,5 @@ Users can:
     npm run dev
 
 
-2. **Hosting in Vercel**
+##  **Hosting in Vercel**
     https://lexisg-frontend-intern-test.vercel.app
