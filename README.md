@@ -28,4 +28,4 @@ Users can:
 
 
 ##  **Hosting in Vercel**
-    https://lexisg-frontend-intern-test.vercel.app
+    (https://lexisg-frontend-intern-test-by-aakash.vercel.app/)
